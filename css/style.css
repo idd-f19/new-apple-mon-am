@@ -87,7 +87,7 @@ a {
 
 @media screen and (min-width: 900px) {
   .actions {
-    background-color: lightgreen;
+    background-color: orange;
   }
 
   .all-products {
