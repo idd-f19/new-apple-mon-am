@@ -73,7 +73,7 @@ a {
   border-radius: 0.25em;
   padding: 0.5em;
   margin: 0 1em;
-  background-image: url(/img/search.svg);
+  background-image: url(../img/search.svg);
   background-position: 0.5em -0.25em;
   background-repeat: no-repeat;
   color: white;
@@ -139,13 +139,13 @@ a {
 }
 
 .iphone11pro {
-  background-image: url(/img/iphone11pro.jpg);
+  background-image: url(../img/iphone11pro.jpg);
 }
 .iphone11 {
-  background-image: url(/img/iphone11.jpg);
+  background-image: url(../img/iphone11.jpg);
 }
 .watchv5 {
-  background-image: url(/img/applewatch.jpg);
+  background-image: url(../img/applewatch.jpg);
 }
 
 
